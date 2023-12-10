@@ -7,7 +7,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satendrakaushik&label=Profile%20views&color=0e75b6&style=flat" alt="satendrakaushik" /> </p>
 
-- 👨‍💻 All of my projects are available at [linkedin.com/in/satendra-kaushik](www.linkedin.com/in/satendra-kaushik)
+- 👨‍💻 All of my projects are available at [linkedin.com/in/satendra-kaushik]([www.linkedin.com/in/satendra-kaushik](https://www.linkedin.com/in/satendra-kaushik/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 - 📫 How to reach me **satendrakaushik2002@gmail.com**
 
