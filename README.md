@@ -68,10 +68,10 @@ Crafting Code and Building Dreams: Engineer Extraordinaire 💻✨"
 
 
 <br><br><br><br><br><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=satendrakaushik&show_icons=true&locale=en" alt="satendrakaushik" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satendrakaushik&show_icons=true&locale=en" alt="satendrakaushik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satendrakaushik&" alt="satendrakaushik" /></p>
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="60" height="60" />
 </div>
 
