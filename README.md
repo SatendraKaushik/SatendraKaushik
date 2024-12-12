@@ -68,9 +68,9 @@ Crafting Code and Building Dreams: Engineer Extraordinaire 💻✨"
 
 
 <br><br><br><br><br><br>
-<p> <br>
+<p> 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=satendrakaushik&show_icons=true&locale=en" alt="satendrakaushik" /></p>
-<br><br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satendrakaushik&" alt="satendrakaushik" /></p>
 
 <div align="center">
