@@ -5,7 +5,10 @@
 <div align="center">
   <h1>Hi there, I'm Satendra Kaushik! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35"></h1>
   <h3>Crafting Code, Building Dreams & Engineering the Future 💻✨</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&random=false&width=435&lines=Software+Developer;Agentic+AI+Engineer;Full+Stack+Specialist;Hackathon+Champion" alt="Typing SVG" />
+  
+  <!-- Added center=true and vCenter=true to perfectly align the text -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Agentic+AI+Engineer;Full+Stack+Specialist;Hackathon+Champion" alt="Typing SVG" />
+  
   <br><br>
   <p>
     <a href="https://komarev.com/ghpvc/?username=satendrakaushik&label=Profile%20views&color=0e75b6&style=flat-square">
