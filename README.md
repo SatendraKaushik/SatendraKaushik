@@ -108,21 +108,20 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=satendrakaushik&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=36BCF7&text_color=8B949E&icon_color=36BCF7" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=satendrakaushik&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=FFA116&text_color=8B949E&icon_color=FFA116" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satendrakaushik&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=8B949E&icon_color=36BCF7" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satendrakaushik&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=FFA116&text_color=8B949E&icon_color=FFA116" alt="Top Languages" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=satendrakaushik&theme=transparent&hide_border=true&title_color=36BCF7&text_color=8B949E&icon_color=36BCF7&ring=36BCF7&fire=36BCF7&currStreakNum=8B949E&currStreakLabel=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=satendrakaushik&theme=transparent&hide_border=true&title_color=FFA116&text_color=8B949E&icon_color=FFA116&ring=FFA116&fire=FFA116&currStreakNum=8B949E&currStreakLabel=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
 </div>
-
 <div align="center">
 
 ## 🤝 Let's Connect!
