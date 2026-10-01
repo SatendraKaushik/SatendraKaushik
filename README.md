@@ -10,11 +10,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Agentic+AI+Engineer;Full+Stack+Specialist;Hackathon+Champion" alt="Typing SVG" />
   
   <br><br>
-  <p>
-    <a href="https://komarev.com/ghpvc/?username=satendrakaushik&label=Profile%20views&color=0e75b6&style=flat-square">
-      <img src="https://komarev.com/ghpvc/?username=satendrakaushik&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-    </a>
-  </p>
+<p>
+  <a href="https://github.com/satendrakaushik">
+    <img src="https://hits.sh/github.com/satendrakaushik/satendrakaushik.svg?style=for-the-badge&label=Profile%20Views&color=FFA116&labelColor=1F2328&extraCount=3000" alt="Profile Views" />
+  </a>
+</p>
 </div>
 
 
